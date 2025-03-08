@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arun Pratap Singh</h1>
 <h3 align="center">A passionate Windows,Vmware and Azure Cloud from India</h3>
 
-- 🔭 I’m currently working on **VMware,Windows,azure**
+- 🔭 I’m currently working on **VMware,Windows,AzureCloud**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **Devops**
+- 👯 I’m looking to collaborate on **Devops Projects**
 
 - 👨‍💻 All of my projects are available at [github/arunpratapsinghh](github/arunpratapsinghh)
 
