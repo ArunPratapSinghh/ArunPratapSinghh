@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Pratap Singh</h1>
-<h3 align="center">A passionate Windows,Vmware and Azure Cloud from 🇮🇳 .I am assionate about developing infrastructure automation scripts with 8+ years of professional onsite as well as remote working experience. 🎯
+<h3 align="center">A passionate Windows,Vmware and Azure Cloud from 🇮🇳 .I am passionate about developing infrastructure automation scripts with 8+ years of professional onsite as well as remote working experience. 🎯
 
 </h3>
 
