@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Devops Projects**
 
-- 👨‍💻 All of my projects are available at [github/arunpratapsinghh](github/arunpratapsinghh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
