@@ -3,7 +3,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on **VMware,Windows,AzureCloud**
+- 🔭 I’m currently working on **VMware,Windows & AzureCloud**
 
 - 🌱 I’m currently learning **Devops**
 
